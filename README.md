@@ -7,6 +7,6 @@ Link do video de exibição do Sistema (modulo de cadasto de profissional).
 https://youtu.be/4DDSwVt1F8Y
 
 
-- https://lucasb4rn.github.io/  -- Pagina da aplicação
+- http://3.18.176.164:80  -- Pagina da aplicação
 - https://github.com/lucasb4rn/azummy -- Código fonte do backend
 - https://github.com/lucasb4rn/azummy-front -- Código fonte do frontend
